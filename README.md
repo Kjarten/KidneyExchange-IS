@@ -53,7 +53,7 @@ _Kidney Recipient_: Bloodtype: A, History of Smoking: 0.0, Age: 28,
 _Kidney Recipient_: eGFR: 84.94126554852679, BMI: 35.0, African Heritage: 0,  
 _Kidney Recipient_: SBP: 108.0, Gender: 1  
  
-__Pair: 2__
+__Pair: 2__  
 _Kidney Donor_: Bloodtype: O, History of Smoking: 0.0, Age: 18,  
 _Kidney Donor_: eGFR: 107.15595314677462, BMI: 23.0, African Heritage: 0,  
 _Kidney Donor_: SBP: 108.0, Unrelated: 1.0, HLA-B Mismatches: 1.0,  
