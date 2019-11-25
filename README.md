@@ -1,5 +1,7 @@
 # KidneyExchange-IS
 
+![alt text](https://github.com/nyvard/HPC2019/blob/master/02/kthb2/kthb2_screen_shot_2_3.png?raw=true)
+
 Pair: 1
 Kidney Donor: Bloodtype: O, History of Smoking: 0.0, Age: 34,
 Kidney Donor: eGFR: 108.84501584871526, BMI: 18.0, African Heritage: 0,
