@@ -1,6 +1,6 @@
 # KidneyExchange-IS
 
-![alt text](https://github.com/Kjarten/KidneyExchange-IS/blob/master/02/kthb2/image1A.png?raw=true)
+![alt text](https://github.com/Kjarten/KidneyExchange-IS/blob/master/02/kthb2/image_1A.png?raw=true)
 
 Pair: 1
 Kidney Donor: Bloodtype: O, History of Smoking: 0.0, Age: 34,
