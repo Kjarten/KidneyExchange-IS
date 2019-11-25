@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Kjarten/KidneyExchange-IS/blob/master/image_1B.png?raw=true)
 
-__Pair: 1__
+__Pair: 1__  
 _Kidney Donor_: Bloodtype: O, History of Smoking: 0.0, Age: 34,  
 _Kidney Donor_: eGFR: 108.84501584871526, BMI: 18.0, African Heritage: 0,  
 _Kidney Donor_: SBP: 122.0, Unrelated: 1.0, HLA-B Mismatches: 2.0,  
